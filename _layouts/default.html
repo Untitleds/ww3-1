@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+    <body>
+    {% include navigation.html %}
+    {% if site.slider %}
+    {% include slider.html %}
+    {% endif %}
+    {% if site.about %}
+    {% include about.html %}
+    {% endif %}
+    {% if site.feature %}
+    {% include feature.html %}
+    {% endif %}
+    {% if site.counter %}
+    {% include counter.html %}
+    {% endif %}
+
+    {% if site.counter %}
+    {% include counter.html %}
+    {% endif %}
+    {% if site.service %}
+    {% include service.html %}
+    {% endif %}
+    {% if site.our-team %}
+    {% include our-team.html %}
+    {% endif %}
+    {% if site.testimonial %}
+    {% include testimonial.html %}
+    {% endif %}
+    {% if site.clients-brand %}
+    {% include clients-brand.html %}
+    {% endif %}
+    {% if site.latest-news %}
+    {% include latest-news.html %}
+    {% endif %}
+    {% if site.subscribe %}
+    {% include subscribe.html %}
+    {% endif %}
+
+    {% include footer.html %}
+    {% include script.html %}
+  </body>
+</html>
