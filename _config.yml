@@ -1,10 +1,11 @@
 
+themez: dark-red-theme #bridge-theme #default-theme #fountain-blue-theme
 title: Goal Utility Company Limited
 email: contect@goalutility.com
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ww3.goalutility.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: goalutility
 github_username:  goalutility
 
@@ -13,21 +14,47 @@ slider: 1
 feature: 
 
 
-about: 
+about: Our Company  was established from engineers with experience in their field and combination and become to us. We are team of experience in  Telecommunications Networks  , Enterprise networks  , Security System , Computer Systems , software  including  Equipment in Electrical-Electronics  and part that involve in business  more than that  we are sales , consults , provide , implements , services  in good quality and delivery  the system or project to our custormer on time.we have mission to succuss and we not stop learning new knowledge for improve our team to service to meet customer needs and satisfy.
+
 counter: 
 
 
-service: 
+service:
+    pj_1: Telecommunications network
+    pj_2: Telecom Site Facility
+    pj_3: Enterprise network
+    pj_4: Software
+
+    sj_1: Network Design for Transport network SDH , IPRAN, IPTN ,MSAN
+          Installation and Commissioning for Transport network major in Huawei SDH , MSAN
+          Installation and Commissioning Access network major in ADSLAM, MSAN and GPONE
+          Installation and Commissioning for Wireless network major in 3G (Node B) and LTE ,ONU
+          Cut Over to Relocate SDH,DWDM,IPRAN,5G MW, 3G Node B,LTE, AirNet and OSP FTTX
+    sj_2: Civil Construction for telecom station
+          Installation for AC/DC rectifier system
+          Installation for cable runner, cable tray and pipe line
+          Installation for ESD and Raise floor system
+          Installation for secure system, fire protection, alarm housekeeping system and Access Control System
+          Supply telecom material for 19” Rack, Cable runner, ODF Rack, Path Panel, Patch Cord, Power Supply unitand wiring.
+          Installation for Air Condition system
+    sj_3: Site Survey and  Drawing network diagram.
+          Network Design and create solution for infrastructure.
+          Installation and Commissioning for network equipment switch , router  major in Cisco , Huawei , HP
+          Installation and Commissioning security network  such as firewall  , applient box.
+          Installation and Commissioning for Wireless network equipment such as AP , controller , CCTV.
+          Installation and prepare computer server , storage ,  PC  include OS , IP , setup  for install software.
+    sj_4: installation and setup inhouse software package " CMMS " for manage part for maintenance
+
 our-team:
 testimonia:
 clients-brand:
 latest-news:
 subscribe:
 contact:
-    tex_id : 0105559127115
-    email: contact@goalutility.com  ,  ratchakitim@gmail.com  , thanakorn@goalutility.com
-    address: HQ  10/56  Soi changwatana 14 thungsonghong Laksi Bangkok 10210 (Thailand)
-    tel   :  096-994-6526 
+    tex_id: 0105559127115
+    email: contact@goalutility.com,ratchakitim@gmail.com,thanakorn@goalutility.com
+    address: HQ  10/56  Soi Changwatana 14 Thungsonghong Laksi Bangkok 10210 (Thailand)
+    tel: +66(0)96-994-6526
 
 copyright:
   brand: Goal Utility Co., Ltd.
